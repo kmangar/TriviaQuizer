@@ -8,7 +8,7 @@ This repository contains a Python application that allows users to take a quiz w
 
 - Python 3.6 or higher
 - Tkinter (included with Python)
-- Pillow (for image display)
+
 
 ## How to Run
 
